@@ -27,7 +27,7 @@
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/DiogoSNs/magic-background-remover.git
+git clone [https://github.com/DiogoSNs/magic-background-remover.git](https://github.com/DiogoSNs/Magic-Background-Remover-Pro-/blob/main/README.md)
 cd magic-background-remover
 ```
 
