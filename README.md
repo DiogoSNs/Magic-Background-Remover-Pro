@@ -2,7 +2,7 @@
 
 ✨ Um aplicativo desktop intuitivo para remoção de fundo de imagens utilizando IA com interface moderna e recursos avançados
 
-![App Screenshot](screenshot.png) <!-- Você pode adicionar uma screenshot real depois -->
+![App Screenshot](/images/1.jpg) <!-- Você pode adicionar uma screenshot real depois -->
 
 ## 🚀 Funcionalidades
 
