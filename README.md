@@ -27,7 +27,7 @@
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/magic-background-remover.git
+git clone https://github.com/DiogoSNs/magic-background-remover.git
 cd magic-background-remover
 ```
 
@@ -86,8 +86,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 - Aos desenvolvedores do [rembg](https://github.com/danielgatis/rembg) pela incrível biblioteca
 - À comunidade Python por manter as bibliotecas atualizadas
-- Aos usuários que testaram e reportaram issues ❤️
 
 ---
-
-**Feito com 💙 por [Seu Nome]** | [📁 Portfólio](https://seusite.com) | [💼 LinkedIn](https://linkedin.com/in/seu-perfil)
