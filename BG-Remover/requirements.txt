@@ -1,0 +1,6 @@
+rembg
+Pillow
+PyInstaller
+onnxruntime
+rembg[gui]
+tkinterdnd2
