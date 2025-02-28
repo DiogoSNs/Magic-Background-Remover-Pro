@@ -66,7 +66,7 @@ python main.py
 ## 📸 Screenshot
 
 <!-- Adicione uma screenshot real do seu aplicativo aqui -->
-![Interface Moderna](screenshot.png)
+![Imagem 2](Images/2.jpg)
 
 ## 🙌 Contribuição
 
